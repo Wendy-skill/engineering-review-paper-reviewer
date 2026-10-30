@@ -4,6 +4,7 @@ description: >
   Rigorous peer review for engineering review papers. Audits novelty, literature
   coverage, synthesis depth, evidence quality, quantitative consistency,
   frameworks, figures/tables, research gaps, and claim–evidence alignment.
+  中文触发：综述论文审稿、文献覆盖度、批判性综合；English triggers: review paper methodology, research synthesis audit.
 ---
 
 # Engineering Review Paper Reviewer
@@ -502,3 +503,7 @@ Do not recommend extra searching, extra tables, or extra frameworks unless they 
 The central question is:
 
 > Did the authors transform a defensible body of engineering literature into reliable new knowledge?
+
+## Optional v3 research-group interface
+
+This Skill remains standalone. For genuine cross-Skill work only, read `references/research-group-interop-v3.md`. Own **Engineering review-paper scope, search coverage, critical synthesis and novelty evidence**; do not take over **Generic experimental manuscript review or language correction**. Confirm actual specialist availability, carry source/version into the handoff, keep one root-issue owner and avoid a duplicate full review.
